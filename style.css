@@ -1,0 +1,27 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+#result1, #result2, #result3, #camera {
+    border-color: white;
+}
+
+body {
+background-color: yellowgreen;
+}
+
+img:hover {
+    border-radius: 140px;
+}
+
+#btn {
+    background-color:black
+}
+
+#btn, h3, h1, h4, label {
+    color: white;
+}
